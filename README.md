@@ -25,4 +25,4 @@ Git Clone + URL em seu Git Bash
 * E se divirta usando para sortear alguém no amigo secreto 📢;
 
 ---
-⌨️ com ❤️ por [Gilvan Junior] 
+⌨️ com ❤️ por [Gilvan Junior](https://github.com/GilvanFJunior) 
